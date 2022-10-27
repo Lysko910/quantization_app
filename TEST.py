@@ -2,4 +2,4 @@
 
 print("CO jest grane")
 
-print("Styrta sie pali")
+print("chałpa sie pali")
